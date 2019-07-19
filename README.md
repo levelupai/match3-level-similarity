@@ -37,6 +37,10 @@ The pre-trained model is not available in this repository, but the model can eas
 Just execute `python main.py 1` after installing the dependencies and follow the instructions to 
 save the model. The model is saved and accessed by default at the path `./output/autoencoder/model.pth` 
 
+## Report
+
+* The report for this project can be accessed [here](output/Report.pdf)
+
 ## Built With
 
 * [PyTorch](https://pytorch.org/) - The ML framework used 
